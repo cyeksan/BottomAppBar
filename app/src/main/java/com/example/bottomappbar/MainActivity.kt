@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        setSupportActionBar(bottom_app_bar)
+        bottom_app_bar.replaceMenu(R.menu.bottom_app_bar_menu)
 
     }
 
