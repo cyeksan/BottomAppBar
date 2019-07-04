@@ -47,4 +47,5 @@
     <string name="flight_click">Flight clicked</string>
     <string name="ideas_click">Ideas clicked</string>
     <string name="sun_click">Sun clicked</string>
+    <string name="welcome">Welcome!</string>
 </resources>
