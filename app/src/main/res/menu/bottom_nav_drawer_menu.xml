@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="none">
+        <item
+                android:id="@+id/nav1"
+                android:icon="@drawable/ic_wb_sunny_white_24dp"
+                android:title="@string/holiday_places" />
+        <item
+                android:id="@+id/nav2"
+                android:icon="@drawable/ic_weekend_white_24dp"
+                android:title="@string/furniture" />
+        <item
+                android:id="@+id/nav3"
+                android:icon="@drawable/ic_work_white_24dp"
+                android:title="@string/work" />
+
+        <item
+                android:id="@+id/nav4"
+                android:icon="@drawable/ic_brightness_3_white_24dp"
+                android:title="@string/moon" />
+
+        <item
+                android:id="@+id/nav5"
+                android:icon="@drawable/ic_call_white_24dp"
+                android:title="@string/call" />
+
+        <item
+                android:id="@+id/nav6"
+                android:icon="@drawable/ic_cloud_queue_white_24dp"
+                android:title="@string/cloud" />
+
+        <item
+                android:id="@+id/nav7"
+                android:icon="@drawable/ic_content_cut_white_24dp"
+                android:title="@string/cut" />
+
+        <item
+                android:id="@+id/nav8"
+                android:icon="@drawable/ic_details_white_24dp"
+                android:title="@string/details" />
+
+        <item
+                android:id="@+id/nav9"
+                android:icon="@drawable/ic_directions_walk_white_24dp"
+                android:title="@string/walk" />
+
+        <item
+                android:id="@+id/nav10"
+                android:icon="@drawable/ic_drive_eta_white_24dp"
+                android:title="@string/drive" />
+
+        <item
+                android:id="@+id/nav11"
+                android:icon="@drawable/ic_file_download_white_24dp"
+                android:title="@string/download" />
+
+        <item
+                android:id="@+id/nav12"
+                android:icon="@drawable/ic_fingerprint_white_24dp"
+                android:title="@string/fingerprint" />
+
+        <item
+                android:id="@+id/nav13"
+                android:icon="@drawable/ic_flight_white_24dp"
+                android:title="@string/flight" />
+
+        <item
+                android:id="@+id/nav14"
+                android:icon="@drawable/ic_light_bulb_outline_white_24dp"
+                android:title="@string/ideas" />
+
+        <item
+                android:id="@+id/nav15"
+                android:icon="@drawable/ic_wb_sunny_white_24dp"
+                android:title="@string/sun" />
+
+    </group>
+</menu>
